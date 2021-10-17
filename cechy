@@ -1,0 +1,8 @@
+Dobre wsparcie dla rozgałęzionego procesu tworzenia oprogramowania: 
+jest dostępnych kilka algorytmów łączenia zmian z dwóch gałęzi, 
+a także możliwość dodawania własnych algorytmów[1].
+
+Praca off-line: każdy programista posiada własną kopię repozytorium, 
+do której może zapisywać zmiany bez połączenia z siecią; 
+następnie zmiany mogą być wymieniane między lokalnymi repozytoriami.
+
